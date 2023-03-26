@@ -37,8 +37,6 @@ function media(){
     let z = parseInt(document.getElementById('z').value);
 
     let promedio= (x+y+z)/3 
-
     console.log(promedio);
-
     return promedio;
 }
